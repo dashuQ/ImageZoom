@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="com.example.imagezoom.MainActivity">
+    tools:context="com.example.imagezoom.ui.MainActivity">
 
     <TextView
         android:layout_width="fill_parent"
